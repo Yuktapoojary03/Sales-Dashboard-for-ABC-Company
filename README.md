@@ -75,3 +75,7 @@ Improved visibility into company-wide sales performance.
 Reduced manual reporting efforts through automated dashboards.
 Enabled faster strategic decision-making with real-time insights.
 Enhanced performance monitoring across products, brands, and supervisors.
+
+6. Screenshots/ Demos
+
+Example: ![DashboardPreview].(https://github.com/Yuktapoojary03/Sales-Dashboard-for-ABC-Company/blob/main/ABC%20Company%20Sales%20Dashboard.PNG).      
